@@ -1,4 +1,4 @@
-# cpp-projects
+# cpp-projets
 
 Ce repository regroupe mes différents projets réalisés en **C++** pour me familiariser avec le langage.
 
