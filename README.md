@@ -12,7 +12,7 @@ Un remake du célèbre **Pong**, développé pour explorer la **programmation or
 - **Concepts abordés** : Programmation orientée objet (POO), gestion des entrées clavier, affichage simple en 2D.
 
 #### 🎮 Aperçu :
-![Aperçu de Pong](previews/pong/1.png)
+![Aperçu de Pong](previews/pong/1.gif)
 
 ---
 
@@ -24,7 +24,7 @@ Un projet d'expérimentation sur le **raytracing/raycasting**, utilisé pour com
 - **Concepts abordés** : Calculs de trajectoires, gestion des collisions visuelles, rendu simple basé sur des rayons.
 
 #### 🎮 Aperçu :
-![Aperçu du Raytracing](previews/raytracing/1.png)
+![Aperçu du Raytracing](previews/raytracing/1.gif)
 
 
 ## 📜 À venir
